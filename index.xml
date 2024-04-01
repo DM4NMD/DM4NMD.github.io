@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>帥帥兔愛耍帥</title>
+    <link>https://DM4NMD.github.io/</link>
+    <description>Recent content on 帥帥兔愛耍帥</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 01 Apr 2024 05:50:00 +0800</lastBuildDate>
+    <atom:link href="https://DM4NMD.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>帥帥兔的第一篇文章</title>
+      <link>https://DM4NMD.github.io/blog/first-artical/</link>
+      <pubDate>Mon, 01 Apr 2024 05:50:00 +0800</pubDate>
+      <guid>https://DM4NMD.github.io/blog/first-artical/</guid>
+      <description>Hello World This is my first try I like to learn Many things are so interesting for me Now I am typing the code!</description>
+    </item>
+  </channel>
+</rss>
